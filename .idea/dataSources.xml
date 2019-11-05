@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Hive - jdbc:hive2://192.168.37.111:10000/setting" uuid="73340684-76c1-4b45-895f-d399eb3e1e16">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://192.168.37.111:10000/setting</jdbc-url>
+      <default-dialect>GenericSQL</default-dialect>
+    </data-source>
+  </component>
+</project>
